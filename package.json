@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/pniko/azure-function-optimizely/issues"
   },
-  "homepage": "https://github.com/pniko/azure-function-optimizely#readme"
+  "homepage": "https://github.com/pniko/azure-function-optimizely#readme",
+  "dependencies": {
+    "query-string": "^6.1.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
 }
