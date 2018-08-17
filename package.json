@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/pniko/azure-function-optimizely#readme",
   "dependencies": {
+    "@slack/client": "^4.4.0",
+    "console.table": "^0.10.0",
     "query-string": "^6.1.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.2"
